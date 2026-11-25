@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+plotly
+openpyxl
+hijridate
+jupyter
+# Optional model and alternate calendar backend:
+prophet
+hijri-converter
