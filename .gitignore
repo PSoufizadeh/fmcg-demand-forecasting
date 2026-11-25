@@ -1,0 +1,76 @@
+# Confidential commercial data
+data/
+datasets/
+raw_data/
+processed_data/
+sales_data/
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.parquet
+*.json
+*.db
+*.sqlite
+
+# Forecasting results and reports
+results/
+outputs/
+forecasts/
+predictions/
+reports/
+figures/
+exports/
+*.pdf
+*.docx
+*.png
+*.jpg
+*.html
+
+# Trained models and artifacts
+models/
+checkpoints/
+artifacts/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.onnx
+*.npy
+*.npz
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.cache/
+
+# Credentials and configuration
+.env
+.env.*
+secrets/
+credentials/
+*.pem
+*.key
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
